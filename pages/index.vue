@@ -8,6 +8,8 @@
         <li><a href="/client">Client</a></li>
         <li><a href="/preload">Preload</a></li>
         <li><a href="/swr">SWR</a></li>
+        <li><a href="/isr">ISR</a></li>
+        <li><a href="/static">Static</a></li>
       </ul>
     </nav>
   </header>

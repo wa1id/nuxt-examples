@@ -5,6 +5,6 @@ export default defineNuxtConfig({
     enabled: true,
   },
   routeRules: {
-    '/': { prerender: true },
+    '/preload': { prerender: true },
   },
 })

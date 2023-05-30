@@ -7,6 +7,6 @@ export default defineNuxtConfig({
   routeRules: {
     '/preload': { prerender: true },
     '/swr': { swr: 10 },
-    '/isr': { isr: true },
+    '/isr': { isr: 10 },
   },
 })

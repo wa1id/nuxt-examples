@@ -8,6 +8,5 @@ export default defineNuxtConfig({
     '/preload': { prerender: true },
     '/swr': { swr: 10 },
     '/isr': { isr: true },
-    '/static': { static: true },
   },
 })

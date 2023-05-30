@@ -1,4 +1,5 @@
 <template>
+  <!-- <div class="spacer"></div> -->
   <header>
     <nav>
       <ul>
@@ -9,7 +10,6 @@
         <li><NuxtLink href="/preload">Preload</NuxtLink></li>
         <li><NuxtLink href="/swr">SWR</NuxtLink></li>
         <li><NuxtLink href="/isr">ISR</NuxtLink></li>
-        <li><NuxtLink href="/static">Static</NuxtLink></li>
       </ul>
     </nav>
   </header>

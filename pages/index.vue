@@ -8,7 +8,6 @@
         <li><NuxtLink href="/minimize-payload">Minimize Payload</NuxtLink></li>
         <li><NuxtLink href="/client">Client</NuxtLink></li>
         <li><NuxtLink href="/preload">Preload</NuxtLink></li>
-        <li><NuxtLink href="/swr">SWR</NuxtLink></li>
         <li><NuxtLink href="/isr">ISR</NuxtLink></li>
       </ul>
     </nav>

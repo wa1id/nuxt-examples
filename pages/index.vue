@@ -2,14 +2,14 @@
   <header>
     <nav>
       <ul>
-        <li><a href="/default-ssr">Default SSR</a></li>
-        <li><a href="/ssr-lazy">SSR Lazy</a></li>
-        <li><a href="/minimize-payload">Minimize Payload</a></li>
-        <li><a href="/client">Client</a></li>
-        <li><a href="/preload">Preload</a></li>
-        <li><a href="/swr">SWR</a></li>
-        <li><a href="/isr">ISR</a></li>
-        <li><a href="/static">Static</a></li>
+        <li><NuxtLink href="/default-ssr">Default SSR</NuxtLink></li>
+        <li><NuxtLink href="/ssr-lazy">SSR Lazy</NuxtLink></li>
+        <li><NuxtLink href="/minimize-payload">Minimize Payload</NuxtLink></li>
+        <li><NuxtLink href="/client">Client</NuxtLink></li>
+        <li><NuxtLink href="/preload">Preload</NuxtLink></li>
+        <li><NuxtLink href="/swr">SWR</NuxtLink></li>
+        <li><NuxtLink href="/isr">ISR</NuxtLink></li>
+        <li><NuxtLink href="/static">Static</NuxtLink></li>
       </ul>
     </nav>
   </header>

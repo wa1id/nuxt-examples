@@ -13,3 +13,9 @@
     </nav>
   </header>
 </template>
+
+<script setup>
+useHead({
+  title: 'Nuxt Demo',
+})
+</script>

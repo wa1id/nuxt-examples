@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     enabled: true,
   },
   routeRules: {
-    '/preload': { static: true },
+    '/preload': { prerender: true },
     '/isr': { isr: 10 },
   },
 })
